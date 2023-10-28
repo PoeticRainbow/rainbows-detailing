@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves_no_tint",
+  "textures": {
+    "all": "minecraft:block/azalea_leaves",
+    "edge": "minecraft:block/azalea_leaves_edge"
+  }
+}

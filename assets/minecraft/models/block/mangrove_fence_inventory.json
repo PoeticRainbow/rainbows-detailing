@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "minecraft:block/mangrove_planks",
+    "post": "minecraft:block/stripped_mangrove_log"
+  }
+}
