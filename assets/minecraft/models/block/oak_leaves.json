@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/leaves",
+	"textures": {
+		"all": "block/oak_leaves",
+		"edge": "block/oak_leaves_edge"
+	}
+}
