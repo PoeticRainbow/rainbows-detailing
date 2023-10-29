@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/door_top_right_open",
+	"textures": {
+		"top": "block/cherry_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, -1, 4],
+			"to": [3, 12, 4],
+			"faces": {
+				"south": {"uv": [16, 3, 13, 16], "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, -1, 12],
+			"to": [3, 12, 12],
+			"faces": {
+				"north": {"uv": [13, 3, 16, 16], "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, -1, 4],
+			"to": [3, -1, 12],
+			"faces": {
+				"up": {"uv": [4, 0, 12, 3], "rotation": 90, "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, 12, 4],
+			"to": [3, 12, 12],
+			"faces": {
+				"down": {"uv": [4, 0, 12, 3], "rotation": 90, "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#top", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#top"},
+				"south": {"uv": [3, 0, 0, 16], "texture": "#top", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#top", "cullface": "up"}
+			}
+		}
+	]
+}

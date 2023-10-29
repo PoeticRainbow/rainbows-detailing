@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/cactus",
+        "weight": 3
+      },
+      {
+        "model": "minecraft:block/cactus_fruit"
+      },
+      {
+        "model": "minecraft:block/cactus_fruit_slight_turn"
+      },
+      {
+        "model": "minecraft:block/cactus_fruit_slight_turn",
+        "y": 90
+      }
+    ]
+  }
+}
