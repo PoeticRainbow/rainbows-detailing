@@ -26,5 +26,9 @@ The pack is especially tailored to those who avoid resource packs in fear of the
 - Bookshelves
 - Chiseled Bookshelves
 - Map Item Frames
+- Sculk Vein
+- Rails
+- Ladders
+- Sugar Cane
 
 ![Isometric Block Preview](https://github.com/PoeticRainbow/rainbows-detailing/blob/main/gallery/blockpreview.png?raw=true)
