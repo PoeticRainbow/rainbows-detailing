@@ -8,6 +8,7 @@ Every addition in the pack is pixel consistent with Vanilla and uses proper pare
 
 The pack is especially tailored to those who avoid resource packs in fear of their builds looking bad without them. The largest change that would affect your builds' looks would be the color swap of Stripped Dark Oak. The color is changed to match Dark Oak Planks and finally gives the Stripped Dark Oak a set of matching stairs and slabs in doing so. Without the pack, the log is desaturated and strangely lighter. This is your only worry in using my pack.
 
+[Consider supporting me on Ko-Fi](https://ko-fi.com/poeticrainbow)
 
 ## A general list of blocks affected:
 - Grass Blocks
