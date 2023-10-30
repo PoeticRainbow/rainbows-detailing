@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 18,
+        "pack_format": 15,
         "supported_formats": {
-            "min_inclusive": 18,
-            "max_inclusive": 18
+            "min_inclusive": 15,
+            "max_inclusive": 20
         },
         "description": "§2🪴 §cr§6a§ei§an§bb§do§cw§7'§as detailing §2🪴\n§8[1.20.x] by §7PoeticRainbow"
     }
