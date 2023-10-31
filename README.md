@@ -1,8 +1,8 @@
 ![Logo with Isometric Rooms](https://github.com/PoeticRainbow/rainbows-detailing/blob/main/gallery/isorooms.png?raw=true)
 
 <div align=center>
-  <img src="https://img.shields.io/curseforge/dt/930459?logo=curseforge&logoColor=%23FFFFFF&label=CurseForge&labelColor=%23F16436&color=%23000000&link=https%3A%2F%2Flegacy.curseforge.com%2Fminecraft%2Ftexture-packs%2Frainbows-detailing">
-  <img src="https://img.shields.io/modrinth/dt/nN52yjy2?logo=modrinth&logoColor=%23FFFFFF&label=Modrinth&labelColor=%231BD96A&color=%23000000&link=https%3A%2F%2Fmodrinth.com%2Fresourcepack%2Frainbows-detailing">
+  <a href="https://legacy.curseforge.com/minecraft/texture-packs/rainbows-detailing"><img src="https://img.shields.io/curseforge/dt/930459?logo=curseforge&logoColor=%23FFFFFF&label=CurseForge&labelColor=%23F16436&color=%23000000"></a>
+  <a href="https://modrinth.com/resourcepack/rainbows-detailing"><img src="https://img.shields.io/modrinth/dt/nN52yjy2?logo=modrinth&logoColor=%23FFFFFF&label=Modrinth&labelColor=%231BD96A&color=%23000000"></a>
 </div>
 
 # A builder's companion
